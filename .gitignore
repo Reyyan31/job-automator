@@ -3,3 +3,5 @@ node_modules/
 backend/.env
 config.json
 frontend/.next/
+frontend/node_modules/
+backend/node_modules/
